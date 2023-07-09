@@ -1,16 +1,9 @@
-# Blockchain
-*This is my repository regarding the Blockchain which contain Hyperledger Fabric deploy.*
-
-
-![IMG_20230705_135651_873](https://github.com/Vedkkp/Blockchain/assets/100022997/7a3689fd-681c-4a74-8b48-d3d13d8aaab0)
-
 
 # Hyperledger-Fabric
 
 To initiate the first Hyperledger Fabric network, we will utilize the Fabric-samples repository. This repository consists of CLI tool binaries and Fabric Docker Images, which are essential for comprehending and utilizing the fundamentals of Fabric. Before commencing the project, it is necessary to install the following dependencies:
 
 ## 1.Install Docker
-For this Some of the codes from **Shubham Tatvamasi** are used to install the docker.
 
 
 ### Quick Install
@@ -106,6 +99,4 @@ To install binaries for Fabric samples you can use the command below:
 
         ./network.sh up
 
-***Now our first Hyperledger Fabric Network is successfully running.***
-
-**HYPERLEDGER DONE!!**
+***Now our first Hyperledger Fabric Network is successfully running***
